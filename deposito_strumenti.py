@@ -2,6 +2,7 @@ from strumento import Strumento
 from prestito import Prestito
 
 
+
 class DepositoStrumenti:
     def __init__(self, nome, responsabile):
         """Inizializza gli attributi e le strutture dati"""
